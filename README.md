@@ -1,2 +1,2 @@
 # Particle.io
-Particle.io repo for firmware
+This repo contains Particle.io related firmware and examples.
